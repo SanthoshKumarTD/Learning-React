@@ -1,0 +1,14 @@
+.parent h1{
+    color: rgb(19, 51, 233);
+}
+
+.parent h2{
+    color: rgb(19, 51, 233);
+}
+
+.arrOfObj{
+    border-radius: 5px;
+    color: black;
+    background-color: aqua;
+    width: 400px;
+}
